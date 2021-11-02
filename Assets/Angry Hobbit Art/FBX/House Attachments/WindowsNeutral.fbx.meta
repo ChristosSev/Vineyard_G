@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 5f3b57c5a95f0f944a9905e13a679d13
+timeCreated: 1456427079
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 3_Window_5
+    100002: 3_Window_6
+    100004: Frame_3
+    100006: Small_Window_3
+    100008: Small_Window_Frame_3
+    100010: Small_Window_Frame_4
+    100012: Window_3
+    100014: Window_All_3
+    100016: Window_Bottom_3
+    100018: Window_Bottom_6
+    100020: Window_Frame_3
+    100022: Window_Frame_6
+    100024: Window_Frame_9
+    100026: Window_Large_Neutral
+    100028: Window_rectangle_Neutral
+    100030: Window_Top_3
+    100032: Window_Top_6
+    100034: WindowAllArchNeutral
+    100036: WindowArchDecoTudorNeutral
+    100038: WindowArchDecoWoodNeutral
+    100040: //RootNode
+    400000: 3_Window_5
+    400002: 3_Window_6
+    400004: Frame_3
+    400006: Small_Window_3
+    400008: Small_Window_Frame_3
+    400010: Small_Window_Frame_4
+    400012: Window_3
+    400014: Window_All_3
+    400016: Window_Bottom_3
+    400018: Window_Bottom_6
+    400020: Window_Frame_3
+    400022: Window_Frame_6
+    400024: Window_Frame_9
+    400026: Window_Large_Neutral
+    400028: Window_rectangle_Neutral
+    400030: Window_Top_3
+    400032: Window_Top_6
+    400034: WindowAllArchNeutral
+    400036: WindowArchDecoTudorNeutral
+    400038: WindowArchDecoWoodNeutral
+    400040: //RootNode
+    2300000: 3_Window_5
+    2300002: 3_Window_6
+    2300004: Frame_3
+    2300006: Small_Window_3
+    2300008: Small_Window_Frame_4
+    2300010: Window_3
+    2300012: Window_All_3
+    2300014: Window_Bottom_3
+    2300016: Window_Bottom_6
+    2300018: Window_Frame_3
+    2300020: Window_Frame_6
+    2300022: Window_Frame_9
+    2300024: Window_Top_3
+    2300026: Window_Top_6
+    3300000: 3_Window_5
+    3300002: 3_Window_6
+    3300004: Frame_3
+    3300006: Small_Window_3
+    3300008: Small_Window_Frame_4
+    3300010: Window_3
+    3300012: Window_All_3
+    3300014: Window_Bottom_3
+    3300016: Window_Bottom_6
+    3300018: Window_Frame_3
+    3300020: Window_Frame_6
+    3300022: Window_Frame_9
+    3300024: Window_Top_3
+    3300026: Window_Top_6
+    4300000: Window_3
+    4300002: Frame_3
+    4300004: Small_Window_3
+    4300006: Small_Window_Frame_4
+    4300008: 3_Window_5
+    4300010: 3_Window_6
+    4300012: Window_Top_3
+    4300014: Window_Bottom_3
+    4300016: Window_Frame_3
+    4300018: Window_Top_6
+    4300020: Window_Bottom_6
+    4300022: Window_Frame_6
+    4300024: Window_All_3
+    4300026: Window_Frame_9
+    6400000: 3_Window_5
+    6400002: 3_Window_6
+    6400004: Frame_3
+    6400006: Small_Window_3
+    6400008: Small_Window_Frame_4
+    6400010: Window_3
+    6400012: Window_All_3
+    6400014: Window_Bottom_3
+    6400016: Window_Bottom_6
+    6400018: Window_Frame_3
+    6400020: Window_Frame_6
+    6400022: Window_Frame_9
+    6400024: Window_Top_3
+    6400026: Window_Top_6
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

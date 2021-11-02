@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 8f17230587fa13a4bb68d2ff2a46eb74
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: axle_b
+    100004: bone_chain
+    100006: brake
+    100008: bumper_f
+    100010: chain
+    100012: exhausts
+    100014: gearShift
+    100016: handlebars
+    100018: headLights
+    100020: lookAt_spring
+    100022: motor
+    100024: radiator
+    100026: seat
+    100028: spring_b
+    100030: suspension_b
+    100032: tailLights
+    100034: wheel_b_l
+    100036: wheel_b_r
+    100038: wheel_f_l
+    100040: wheel_f_r
+    400000: //RootNode
+    400002: axle_b
+    400004: bone_chain
+    400006: brake
+    400008: bumper_f
+    400010: chain
+    400012: exhausts
+    400014: gearShift
+    400016: handlebars
+    400018: headLights
+    400020: lookAt_spring
+    400022: motor
+    400024: radiator
+    400026: seat
+    400028: spring_b
+    400030: suspension_b
+    400032: tailLights
+    400034: wheel_b_l
+    400036: wheel_b_r
+    400038: wheel_f_l
+    400040: wheel_f_r
+    2100000: blackPaint
+    2100002: paintGreen
+    2100004: Metal
+    2100006: Chrome
+    2100008: Black
+    2100010: paintWhite
+    2100012: Windows
+    2100014: lightsOrange
+    2100016: lightsRed
+    2100018: lightsWhite
+    2300000: //RootNode
+    2300002: axle_b
+    2300004: brake
+    2300006: bumper_f
+    2300008: exhausts
+    2300010: gearShift
+    2300012: handlebars
+    2300014: headLights
+    2300016: motor
+    2300018: radiator
+    2300020: seat
+    2300022: spring_b
+    2300024: suspension_b
+    2300026: tailLights
+    2300028: wheel_b_l
+    2300030: wheel_b_r
+    2300032: wheel_f_l
+    2300034: wheel_f_r
+    3300000: //RootNode
+    3300002: axle_b
+    3300004: brake
+    3300006: bumper_f
+    3300008: exhausts
+    3300010: gearShift
+    3300012: handlebars
+    3300014: headLights
+    3300016: motor
+    3300018: radiator
+    3300020: seat
+    3300022: spring_b
+    3300024: suspension_b
+    3300026: tailLights
+    3300028: wheel_b_l
+    3300030: wheel_b_r
+    3300032: wheel_f_l
+    3300034: wheel_f_r
+    4300000: ATV_02
+    4300002: brake
+    4300004: bumper_f
+    4300006: chain
+    4300008: exhausts
+    4300010: gearShift
+    4300012: handlebars
+    4300014: headLights
+    4300016: motor
+    4300018: radiator
+    4300020: seat
+    4300022: suspension_b
+    4300024: axle_b
+    4300026: wheel_b_r
+    4300028: wheel_b_l
+    4300030: spring_b
+    4300032: tailLights
+    4300034: wheel_f_l
+    4300036: wheel_f_r
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: chain
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

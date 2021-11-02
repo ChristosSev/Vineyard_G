@@ -1,0 +1,30 @@
+Thank you for purchasing Medieval Brewery & Vineyard.
+
+This pack is base on LOW poly modeling typically used in large world or MMO type games that need optimized modeling. Most Textures are 512x512 and tile-able for easy texture changes. Normal Maps are included with textures. I did not create every possible prefab combination as they are nearly limitless. I did however create several for each type in each group to get you started.
+
+This pack contains, in total ..., 
+
+63 Game Objects (Prefabs & Models Combined)
+74 Textures (most 512x512 tiled)
+43 Materials
+
+If you have any questions or concerns please feel free to contact me angryhobbithulk@gmail.com
+
+My web page is ...
+
+http://3dartenvironments.my-free.website/unity-assets
+
+Please feel free to check out some of my other works on the unity store as they relate to this pack. You can search by Angry Hobbit Art. 
+
+Cemetery Pack
+Medieval Fences
+Medieval Churches
+Medieval Farm Pack
+Medieval Fair & Market pack
+Medieval Fair pack
+Medieval Market pack
+Medieval Food pack
+Medieval Country Structures
+Medieval Lumber Camps
+
+This pack does NOT include sky box texture, terrain textures, rocks, trees / bushes or buildings seen in some of the screen shots.

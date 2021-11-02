@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: ec890cdd239a2de4287787996e2b295a
+timeCreated: 1467656912
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bar_Support_Bottom
+    100002: Bar_Support_Middle
+    100004: Barrel
+    100006: Barrel___Tap
+    100008: //RootNode
+    100010: Keg_Holder_Bottom
+    100012: Keg_Holder_Top
+    100014: Middle_Platform
+    100016: Tap
+    100018: Wood
+    400000: Bar_Support_Bottom
+    400002: Bar_Support_Middle
+    400004: Barrel
+    400006: Barrel___Tap
+    400008: //RootNode
+    400010: Keg_Holder_Bottom
+    400012: Keg_Holder_Top
+    400014: Middle_Platform
+    400016: Tap
+    400018: Wood
+    2300000: Bar_Support_Bottom
+    2300002: Bar_Support_Middle
+    2300004: Barrel
+    2300006: Keg_Holder_Bottom
+    2300008: Keg_Holder_Top
+    2300010: Middle_Platform
+    2300012: Tap
+    2300014: Wood
+    3300000: Bar_Support_Bottom
+    3300002: Bar_Support_Middle
+    3300004: Barrel
+    3300006: Keg_Holder_Bottom
+    3300008: Keg_Holder_Top
+    3300010: Middle_Platform
+    3300012: Tap
+    3300014: Wood
+    4300000: Barrel
+    4300002: Wood
+    4300004: Tap
+    4300006: Bar_Support_Middle
+    4300008: Bar_Support_Bottom
+    4300010: Middle_Platform
+    4300012: Keg_Holder_Bottom
+    4300014: Keg_Holder_Top
+    6400000: Bar_Support_Bottom
+    6400002: Bar_Support_Middle
+    6400004: Barrel
+    6400006: Keg_Holder_Bottom
+    6400008: Keg_Holder_Top
+    6400010: Middle_Platform
+    6400012: Tap
+    6400014: Wood
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

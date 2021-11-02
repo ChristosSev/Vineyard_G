@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 93480c504418c524ca93b37b729f6ed2
+timeCreated: 1456427172
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Door
+    100002: Door_2
+    100004: Door_2A
+    100006: Door_2B
+    100008: Door_2C
+    100010: Door_3
+    100012: Door_4
+    100014: Door_5
+    100016: Door_6
+    100018: Door_Frame
+    100020: Door_Frame_2
+    100022: Door_Frame_3
+    100024: DoorA
+    100026: DoorB
+    100028: DoorC
+    100030: //RootNode
+    100032: Frame
+    100034: Frame_2
+    100036: Frame_3
+    100038: Top_Door
+    100040: Top_Door_2
+    100042: Top_Door_3
+    400000: Door
+    400002: Door_2
+    400004: Door_2A
+    400006: Door_2B
+    400008: Door_2C
+    400010: Door_3
+    400012: Door_4
+    400014: Door_5
+    400016: Door_6
+    400018: Door_Frame
+    400020: Door_Frame_2
+    400022: Door_Frame_3
+    400024: DoorA
+    400026: DoorB
+    400028: DoorC
+    400030: //RootNode
+    400032: Frame
+    400034: Frame_2
+    400036: Frame_3
+    400038: Top_Door
+    400040: Top_Door_2
+    400042: Top_Door_3
+    2300000: Door
+    2300002: Door_2
+    2300004: Door_3
+    2300006: Door_4
+    2300008: Door_5
+    2300010: Door_6
+    2300012: Door_Frame
+    2300014: Door_Frame_2
+    2300016: Door_Frame_3
+    2300018: Frame
+    2300020: Frame_2
+    2300022: Frame_3
+    2300024: Top_Door
+    2300026: Top_Door_2
+    2300028: Top_Door_3
+    3300000: Door
+    3300002: Door_2
+    3300004: Door_3
+    3300006: Door_4
+    3300008: Door_5
+    3300010: Door_6
+    3300012: Door_Frame
+    3300014: Door_Frame_2
+    3300016: Door_Frame_3
+    3300018: Frame
+    3300020: Frame_2
+    3300022: Frame_3
+    3300024: Top_Door
+    3300026: Top_Door_2
+    3300028: Top_Door_3
+    4300000: Door
+    4300002: Door_Frame
+    4300004: Door_2
+    4300006: Door_Frame_2
+    4300008: Door_3
+    4300010: Door_Frame_3
+    4300012: Frame
+    4300014: Top_Door
+    4300016: Door_4
+    4300018: Frame_2
+    4300020: Top_Door_2
+    4300022: Door_5
+    4300024: Frame_3
+    4300026: Top_Door_3
+    4300028: Door_6
+    6400000: Door
+    6400002: Door_2
+    6400004: Door_3
+    6400006: Door_4
+    6400008: Door_5
+    6400010: Door_6
+    6400012: Door_Frame
+    6400014: Door_Frame_2
+    6400016: Door_Frame_3
+    6400018: Frame
+    6400020: Frame_2
+    6400022: Frame_3
+    6400024: Top_Door
+    6400026: Top_Door_2
+    6400028: Top_Door_3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
